@@ -19,3 +19,7 @@
 ## Связанные проекты
 
 - [Home Infrastructure Lab (Proxmox VE)](https://github.com/ntrokhin/Home-Infrastructure-Lab-Proxmox-VE) – комплексная лаборатория корпоративной сети
+
+## Автор
+
+[ntrokhin](https://github.com/ntrokhin)
