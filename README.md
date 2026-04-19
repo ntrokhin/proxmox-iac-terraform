@@ -1,5 +1,8 @@
 # proxmox-iac-terraform
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 Автоматизация развёртывания виртуальных машин Debian 12 в Proxmox с использованием Terraform и Gitea Actions.
 
 ## Что делает
