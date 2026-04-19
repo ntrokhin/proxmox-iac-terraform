@@ -1,0 +1,9 @@
+# Локальная папка .terraform
+**/.terraform/*
+
+# Файлы состояния Terraform
+*.tfstate
+*.tfstate.*
+
+# Файл блокировки провайдеров
+.terraform.lock.hcl
